@@ -1,0 +1,18 @@
+
+GET REQUEST
+1.We need to make a Get Request using Http in React
+2.We need to install axois library to connect to the server
+3.Then import the axios library in the Post component
+4.Create a state property that will store the list of post
+5.Pass the URL in the componentDid mount 
+6.Use .then and .catch methods to log response and error
+7.Distructore the state property then display the list of posts
+8.Display the list of posts using th map method
+
+POST REQUEST
+1. Create a form with inputs for id, name and body
+2. Define an onchange hanler to handle form submission
+3. Define a onForm submit to prevent default submission
+4. import axios to use Post
+5. Make a post request in the submitHandler
+6. Use a library called npm install formik --save

@@ -1,0 +1,7 @@
+HOOKS
+-- Hooks allow us to use react features without having to right a class
+-- Hooks dont work in classes
+-- Hooks are completely opt in
+-- Only call and use hooks at the top level in the functional component
+
+-- Spread operator. helps us to copy everything in the object and overight 
